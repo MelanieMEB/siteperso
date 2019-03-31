@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--		<![CDATA[ .. ]]>  -->
+<website>
+	<presentation>
+		<en>
+		<![CDATA[
+			I have a PhD in Computer Science and I am currently consultant at OCTO Technology. <br/>I usually work in JAVA to develop solutions for biology problems. In my career, I worked for a video game start-up, for a project manager in a large audiovisual company, and in the bioinformatics fields. If you are interested in my profile, please do not hesitate to contact me at your convenience. 
+			]]>
+			
+		</en>
+		<fr>
+			<![CDATA[
+			Docteur en informatique (spécialité Bioinformatique), je travaille actuellement en tant que consultante chez OCTO Technology.
+			<br/>Je travaille actuellement en JAVA, pour développer des solutions pour la biologie. Mon parcours professionnel m'a permis de passer d'une start-up de jeux vidéo à la bioinformatique, en passant par de la gestion de projet dans une grande entreprise audiovisuelle. N'hésitez pas à me contacter si mon profil vous intéresse.
+			]]>
+		</fr>
+	</presentation>
+
+	<actuel>
+		<en>
+		<![CDATA[<br/>]]>
+			I am currently consultant at OCTO Technology.
+		</en>
+		<fr>
+			Je suis actuellement consultante chez OCTO Technology. 
+		</fr>
+	</actuel>
+	
+	<!-- Experience -->
+
+	<expTexte>
+		<en>
+
+		<![CDATA[
+        <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/firstpage.png" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Bioinformatic Ph.D.</h4>	
+                I worked as a doctoral student at the Paris-Saclay University. I studied the prediction of the RNA 3D structures with game theory model. More specifically, I applied regret minimization algorithms coupled to a knowledge-based potential from data statistics to develop my own software: GARN.
+				</p>
+				<ul class = " toc ">
+					Analysis of 3D data of RNA molecules
+					<br/>Software Development in JAVA
+					<br/>Statistical studies in R 
+					<br/>Algorithms of game theory/decision theory
+				</ul>
+				<i> See the Research section for more information. </i>             
+				</div>
+            </div>
+          </section>
+		  
+		  
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/canal.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Web Project Manager Assistant - CANAL+</h4>
+                    I operated for a year and a half as Web Project Manager Assistant at CANAL+. My mission was to develop collaborative internal tools for all teams in CANAL+. In association with the various units involved, especially the internal communication unit, I proposed, adapted and installed Sharepoint platforms, and managed the development of the new intranet.
+				<ul class="toc">
+					Project management for improving the collaboration internal tools
+					<br/>Management of a Sharepoint platform
+					<br/>Development of websites (HTML, CSS, jQuery, PHP)	
+				</ul>
+				</p>
+              </div>
+            </div>
+          </section>
+		  
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/winter-voices.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Developer - BeyondThePillars</h4>
+				
+                Winter Voices is a video game available on Steam. I worked as a developer in Beyondthepillars , a start-up in the video game. I helped to develop the animation system (isometric) and the global engine of this game. I also created the website for it. Winter Voices uses Adobe Air engine.
+
+              <ul class="toc">
+			  	Creation of websites for the game Winter Voices (HTML, CSS, jQuery)
+				<br/>Creation of the animation system tools (AS3, Flex)
+				<br/>Improvement of the engine of Winter Voices (AS3, Flex)
+				<br/>Management of internal tools (NAS, Maven, task tools)
+              </ul>
+					<a href="http://www.wintervoices.fr/" target=_blank>http://www.wintervoices.fr/</a>
+
+              </div>
+            </div>
+          </section>
+
+		  		    <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Others projects & experiences</h4>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Le déclic zen</h5>
+				  <i>JuniorIsep, 2011</i>
+				  <br>
+					I worked on the software <i> Le déclic zen</i>, for <i> Les Mains Libres</i>. This software was developed in Adobe Air.
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>MOOCs</h5>
+					I followed some MOOCS on Coursera or FUN. I studied various subjects, as Initiating and Planning Projects (University of California), Game Theory (Stanford University) and as Fundamentals of Pharmacology (University of Pennsylvania).                </div>
+              </div>
+            </div>
+          </section>
+		  
+         <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Education</h4>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Computer science Ph.D.</h5>
+				  <i>Paris-Saclay University, 2012 - 2016</i>
+				  <br>
+                  Prediction of three-dimensional structure of RNA molecules by regret minimization
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Master's Degree in Engineering</h5>
+				  <i>ISEP, Paris, 2007 - 2012</i>
+				  <br>
+                  With Honours, Speciality Research & Software development 
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Summer School</h5>
+				  <i> INHA University, Incheon, South Korea, August 2011</i>
+                  <br/>Intercultural Communication
+                </div>
+              </div>
+            </div>
+          </section>
+		  
+
+
+		  ]]>	
+
+		</en>
+		<fr>
+		<![CDATA[
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/firstpage.png" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Thèse en bioinformatique</h4>
+				En tant que doctorante à l'université Paris-Saclay, j'ai étudié la prédiction de la structure 3D des molécules d'ARN. Pour cela, j'ai utilisé des modèles de théorie des jeux, et plus spécifiquement des algorithmes de minimisation de regret couplés à des potentiels basés sur des statistiques de données connues.
+				De ces travaux de thèse j'ai proposé le logiciel GARN pour le repliement 3D de structure d'ARN à gros grain.
+				</p>
+				<ul class="toc">
+					Analyse des données 3D de molécules d'ARN
+					<br/>Développement de logiciel en JAVA
+					<br/>Etudes statistiques sous R
+					<br/>Etudes et utilisations d'algorithmes de théorie de la décision/théorie des jeux
+				</ul>
+
+				<i>Visitez la section Recherche pour plus d'informations.</i>
+              </div>
+            </div>
+          </section>
+		  
+		  
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/canal.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Assistante chef de projet web - CANAL +</h4>
+				J'ai travaillé durant un an et demi en tant qu'Assistante chef de projet web à CANAL+. Mon équipe s'occupait des outils collaboratifs au sein du groupe CANAL+. En collaboration avec les différentes équipes concernées, et notamment la communication interne, j'ai travaillé à mettre en place les plateformes Sharepoint et à faire évoluer l'intranet.
+              <ul class="toc">
+				Gestion de projets sur les outils internes de collaboration
+				<br/>Gestion d'une plateforme Sharepoint
+				<br/>Développement de site web (HTML, CSS, jQuery, PHP)	
+				</ul>
+				</p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/winter-voices.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Développeur - BeyondThePillars</h4>
+				En 2010, j'ai rejoint l'équipe de développement de BeyondThePillars, une start-up de jeux vidéo, dans le cadre de mon apprentissage. La start-up travallait sur Winter Voices, disponible sur Steam. En tant que développeuse, je me suis en particulier occupée du système d'animation (en 2D isométrique) du jeu, en plus de plusieurs sites web et du moteur du jeu, en ActionScript and Flex.
+              <ul class="toc">
+			  	Création du site web de Winter Voices (HTML, CSS, jQuery)
+				<br/>Création du système d'animation (AS3, Flex)
+				<br/>Amélioration du moteur du jeu(AS3, Flex)
+				<br/>Gestion des systèmes et outils internes (NAS, Maven, developpement d'outils de tache)
+              </ul>
+				</p>
+				<a href="http://www.wintervoices.fr/" target=_blank>http://www.wintervoices.fr/</a>
+              </div>
+            </div>
+          </section>
+		  
+		    <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Autres projets et expériences</h4>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Le déclic zen</h5>
+				  <i>JuniorIsep, 2011</i>
+				  <br/>
+					J'ai développé le logiciel "Le déclic Zen" pour l'entreprise "Les Mains Libres" en Adobe Air.
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>MOOC</h5>
+				  J'ai validé différents MOOC sur Coursera ou FUN comme "Initier et planifier des projets" (Université de Californie), "Théorie des jeux" (Université de Stanford) ou encore "Fondamentaux de Pharmacologie" (Université de Pennsylvanie).
+				  </div>
+              </div>
+            </div>
+          </section>
+
+		            <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Formations</h4>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Doctorat en Informatique</h5>
+				  <i>Université Paris-Saclay, 2012 - 2016</i>
+				  <br/>
+                  Prédiction de la structure 3D de molécules d'ARN par algorithmes de minimisation de regret
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>École d'ingénieur</h5>
+				  <i>ISEP, Paris, 2009- 2012</i>
+				  <br/>
+                  Major de promotion, Spécialité Recherche & Développement Logiciel
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>École d'été</h5>
+				  <i> INHA, Incheon, Corée du sud, Aout 2011</i>
+                  <br/>Communication interculturelle
+
+                </div>
+				<div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Cycle préparatoire scientifique</h5>
+				  <i>ISEP, Paris - 2009</i>
+                   <br/> MPSI - PSI
+                </div>
+              </div>
+            </div>
+          </section>
+		  ]]>	
+
+			</fr>
+	</expTexte>
+
+	
+	<!-- Skill -->
+
+	<skillTexte>
+		<en>
+		<![CDATA[
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Skills</h4>
+				Through my experiences and my studies, I acquired many skills in IT fields, especially in development. I continue to educate myself through different projects or MOOCs.
+				<br/><br/>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Efficient Languages</h5>
+				  Java, HTML, PHP, CSS, Javascript, XML, MySQL, SQL
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Known Languages</h5>
+                  C, R, Python, Flex, LaTeX, ActionScript, OpenGL, SPARQL
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Languages</h5>
+					French, Native language
+					<br/>English, Working knowledge
+					<br/>Japonais, Basic - JLPT 5
+                </div>
+              </div>
+            </div>
+          </section>
+		  
+		 <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/jeu.jpeg" width="125%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Games</h4>
+                Whether video games, board games, role-playing games or card games, I always enjoyed discovering a new way of playing. My preferences go to Civilization, Diablo, The Elder Scroll, or Zelda for video games, and 7wonders, Abyss, Smallworld, or T.I.M.E Stories with friends for board games.
+              </div>
+            </div>
+		</section>
+
+		
+		<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/photo_2.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Asian Culture</h4>
+                    I'm curious about Asian culture, especially the Korean and the Japanese culture. Through manga and games at first, I discovered more about these two cultures. In particular, I had a first degree in Japanese (JLPT 5), I visited Japan and Korea, and I continue to discover these cultures through exhibitions, cinema (Park Cha -Wook) or books (Haruki Murakami). Recently, I just returned from a trip in Asia, where I have visited Korea, Japan, Hong-kong, Cambodia and Thailand, during a month and a half.
+
+				<p>
+				</p>
+              </div>
+            </div>
+		</section>
+
+		]]>				
+		</en>
+		<fr>
+				<![CDATA[
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Compétences</h4>
+				Grâce à mes expériences et mes études, j'ai acquis plusieurs compétences dans le domaine de l'informatique, spécialement dans le développement. Je continue de me former au travers de différents projets ou de MOOCs.
+				<br/><br/>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Langages opérationnels</h5>
+				  Java, HTML, PHP, CSS, Javascript, XML, MySQL, SQL
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Langages connus</h5>
+                  C, R, Python, Flex, LaTeX, ActionScript, OpenGL, SPARQL
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5>Langues</h5>
+					Français, Langue maternelle
+					<br/>Anglais, Opérationnel
+					<br/>Japonais, Débutant - JLPT 5
+                </div>
+              </div>
+            </div>
+          </section>
+		  
+		 <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/jeu.jpeg" width="125%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Jeux</h4>
+				Que ce soit les jeux vidéos, les jeux de société, de rôles ou de cartes, j'ai toujours aimé découvrir de nouvelles façons d'appréhender le jeu sous toutes ses formes. Mes préférences vont vers Civilization, Diablo, The Elder Scroll, ou encore Zelda pour les jeux vidéo, 7Wonders, Abyss, Smallworld, ou de T.I.M.E Stories entre amis pour les jeux de société. 
+              </div>
+            </div>
+		</section>
+
+		
+		<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white">
+              <img src="images/photo_2.jpg" width="100%"/>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h4>Culture Asiatique</h4>
+					Je m'interesse de près à la culture asiatique, notamment à la culture Japonaise et Coréenne.  À travers les mangas et les jeux dans un premier temps, j'ai appris à découvrir en profondeur ces deux cultures. J'ai notamment passé un premier diplôme de Japonais (JLPT 5), fait des voyages en Japon et en Corée, et je continue à découvrir ces cultures à travers d'expositions, le cinéma (Park Chan-Wook) ou la littérature (Haruki Murakami). Je reviens d'un voyage en Asie, après avoir visité la Corée, le Japon, Hong-kong, le Cambodge et la Thaïlande durant un mois et demi.
+				<p>
+				</p>
+              </div>
+            </div>
+		</section>
+
+		]]>				
+		</fr>
+	</skillTexte>
+
+	
+	<!-- Research -->
+
+	<researchTexte>					
+		<en>
+		<![CDATA[
+		<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">RNA 3D structures</h4>
+				
+				Cellular processes involve large numbers of RNA molecules. The functions of these RNA molecules and their binding to molecular machines are highly dependent on their 3D structures. One of the key challenges in RNA structure prediction and modeling is predicting the spatial arrangement of the various structural elements of RNA. As RNA folding is generally hierarchical, methods involving coarse-grained models hold great promise for this purpose. My research is on a novel coarse-grained method for sampling, based on game theory and knowledge-based potentials. My software, GARN (Game Algorithm for RNa sampling), is often much faster than previously described techniques and generates large sets of solutions closely resembling the native structure. GARN is thus a suitable starting point for the molecular modeling of large RNAs.
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136444" target=_blank>GARN: Sampling RNA 3D structure space with game theory and knowledge-based scoring strategies</a></h5>
+				 Melanie Boudard, Julie Bernauer, Dominique Barth, Johanne Cohen, Alain Denise, PlosOne, Août 2015.
+                </div>
+				
+				<div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://garn.lri.fr" target=_blank>GARN</a></h5>
+                	GARN is a software to compute a sampling of RNA 3D structure from a secondary structure. The current version is the second version of GARN. The article linked to this version will be published soon.
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="https://tel.archives-ouvertes.fr/tel-01315684" target=_blank>PhD thesis</a></h5>
+					My Ph.D. thesis explains, in French, all my research during my Ph.D.: GARN method and development, the reason of using game theory for RNA structure, and a new method to sort RNA predicted structures.
+                </div>
+            </div>
+          </section>		
+
+		  
+		  <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Logic</h4>
+				
+				Double-negation translations are used to encode and decode classical proofs in intuitionistic logic. We show that, in the cut-free fragment, we can simplify the translations and introduce fewer negations.
+				To achieve this, we consider the polarization of the formulæ and adapt that translation to the different connectives and quantifiers. We show that the embedding results still hold, using a customized version of the focused classical sequent calculus. We also prove the latter equivalent to	more usual versions of the sequent calculus. This polarization process	allows lighter embeddings, and sheds some light on the relationship between	intuitionistic and classical connectives.
+				
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://www.cri.ensmp.fr/classement/doc/A-552.pdf" target=_blank>Polarizing Double-Negation Translations</a></h5>
+				 Melanie Boudard and Olivier Hermant in Lecture Notes in Computer Science, volume 8312, p.182-198
+                </div>
+            </div>
+          </section>	
+			]]>
+		</en>
+		<fr>
+		<![CDATA[
+		<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Structure 3D d'ARN</h4>
+				
+			Les fonctions d'une molécule d'ARN dans les processus cellulaires sont très étroitement liées à sa structure tridimensionnelle. Il est donc essentiel de pouvoir prédire cette structure pour étudier sa fonction. Durant mes travaux, j'ai étudié le problème de prédiction de la structure 3D d'ARN sous la forme d'un jeu. Mon hypothèse consiste à voir la structure 3D comme un équilibre en théorie des jeux. Pour atteindre cet équilibre, j'ai utilisé des algorithmes de minimisation de regret. J'ai travaillé sur différentes formalisations du jeu, basées sur des statistiques biologiques. L'objectif de ce travail a été de développer une méthode de repliement d'ARN fonctionnant sur tous les types de molécule d'ARN et obtenant des structures similaires aux molécules réelles. Ma méthode, nommée GARN, a atteint les objectifs attendus et a permis d'approfondir l'impact de certains paramètres pour la prédiction de structure à gros grain des molécules				
+			
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136444" target=_blank>GARN: Sampling RNA 3D structure space with game theory and knowledge-based scoring strategies</a></h5>
+				 Melanie Boudard, Julie Bernauer, Dominique Barth, Johanne Cohen, Alain Denise, PlosOne, Août 2015.
+                </div>
+				
+				<div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://garn.lri.fr" target=_blank>GARN</a></h5>
+					GARN est un logiciel permettant de calculer un échantillonnage de la structure 3D de d'une molécule d'ARN à partir de sa structure secondaire. La version disponible actuellement est la deuxième version de GARN. Cette version sera accompagné d'un article (actuellement en cours de publication).
+                </div>
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="https://tel.archives-ouvertes.fr/tel-01315684" target=_blank>Manuscrit de thèse</a></h5>
+					Mon manuscrit de thèse contient le résultat de mes trois ans de thèse sur le repliement 3D, à gros grain, des molécules d'ARN. Ce document présente l'idée de base, le développement du logiciel, jusqu'à une méthode pour trier les structures prédites.
+				</div>
+            </div>
+          </section>		
+
+		  
+		  <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Logique</h4>
+				Les translations sont utilisés pour passer d'une logique classique à une logique intuistionniste. Dans ces travaux, nous montrons que nous pouvons simplifier les translations existantes en introduisant moins de négations (sans la règle de coupure).
+				Pour ce faire, nous considérons la polarisation des formules pour adapter la translation aux différentes connecteurs et quantificateurs. Ces travaux ont montré que les résultats d'incorporation fonctionnent bien, en utilisant une version personnalisée du calcul des séquents classique. Ce processus de polarisation permet une translation plus légère et permet d'avoir une nouvelle lumière entre les conjonctions intuitionnistes et classiques.
+				
+                <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                  <div class="section__circle-container__circle mdl-color--primary"></div>
+                </div>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <h5><a href="http://www.cri.ensmp.fr/classement/doc/A-552.pdf" target=_blank>Polarizing Double-Negation Translations</a></h5>
+				 Melanie Boudard and Olivier Hermant, <i>Lecture Notes in Computer Science</i>, volume 8312, p.182-198
+                </div>
+            </div>
+          </section>	
+			]]>
+		</fr>
+	</researchTexte>
+
+	<!-- TEACHING -->
+
+	<teachingTexte>
+		<en>
+	During my thesis, I had the opportunity to teach at the Versailles University, at Paris-sud University and at Polytech school (Engineering school at Paris-sud). I have taught students of all levels, and on several topics related to computers science.
+		<![CDATA[
+		<ul class="demo-list-three mdl-list">
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Databases</span>
+			  <span class="mdl-list__item-text-body">
+				Praticals - 2nd/3rd year of Bachelor: SQL, PL/SQL, MySQL, Oracle, UML, Relational model, Relational algebra
+				<br/>Courses and Praticals - 2nd year of Master: XML, XPath, XSLT
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Web</span>
+			  <p class="mdl-list__item-text-body">
+			  	Courses and Praticals - 1st year of Bachelor: HTML, CSS, PHP4
+				<br/>Praticals - 2nd year of Bachelor: MySQL, PHP4, Javascript
+			  </p>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Mathematic</span>
+			  <span class="mdl-list__item-text-body">
+				Praticals - 2nd year of Bachelor: Statistiques, Probabilités, Ensemble, Algèbre linéaire, Logique 
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Computer programming</span>
+			  <span class="mdl-list__item-text-body">
+				Praticals - 1st year of Bachelor: C, Algorithmic
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>3D</span>
+			  <span class="mdl-list__item-text-body">
+				Praticals - 2nd year of Bachelor: OpenGL
+				<br/>Association <i>3Di</i> - Engineering school: Blender software initiation
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Bioinformatics</span>
+			  <span class="mdl-list__item-text-body">
+				Courses and Praticals - 3rd year of Bachelor: Linux initiation for biologist students, Project for a beginner bioinformatics students
+			  </span>
+			</span>
+		  </li>
+		</ul>
+		]]>	
+		</en>
+		<fr>
+			Durant mes années de thèse, j'ai eu l'opportunité d'enseigner à l'Université de Versailles, de Paris-Sud et à l'école Polytech de Paris-sud. J'ai travaillé avec des élèves de différents niveaux, et sur plusieurs sujets liés à l'informatique.
+		<![CDATA[
+		<ul class="demo-list-three mdl-list">
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Bases de données</span>
+			  <span class="mdl-list__item-text-body">
+				TP/TD - Bac+2/Bac+3 : SQL, PL/SQL, MySQL, Oracle, UML, Modèle relationnel, Algèbre relationnelle
+				<br/>Cours/TP/TD - Bac+5 : XML, XPath, XSLT
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Web</span>
+			  <p class="mdl-list__item-text-body">
+			  	Cours/TP/TD - Bac+1 : HTML, CSS, PHP4
+				<br/>TP/TD - Bac+2 : MySQL, PHP4, Javascript
+			  </p>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Mathématique</span>
+			  <span class="mdl-list__item-text-body">
+				TD - Bac+2 : Statistiques, Probabilités, Ensemble, Algèbre linéaire, Logique 
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Programmation</span>
+			  <span class="mdl-list__item-text-body">
+				TD/TP - Bac+1 : C, Algorithmique
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>3D</span>
+			  <span class="mdl-list__item-text-body">
+				TD/TP - Bac+2 : OpenGL
+				<br/>Association <i>3Di</i> - ISEP : Initiation à Blender
+			  </span>
+			</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/school.png"/></i>
+			  <span>Bioinformatique</span>
+			  <span class="mdl-list__item-text-body">
+				Cours/TD/TP - Bac+3 : Initiation à Linux pour la biologie, Gestion des projets de bioinformatique
+			  </span>
+			</span>
+		  </li>
+		</ul>
+		]]>	
+		</fr>
+	</teachingTexte>
+	
+	
+	<!-- CONTACT -->
+	<contactTexte>
+		<en>
+		<![CDATA[
+		<ul class="demo-list-three mdl-list">
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/contact.png" alt="mail"/></i>
+			  <span>melanie.boudard(at)gmail.com</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/link.png" alt="linkedin"/></i>
+			  <span><a href="https://www.linkedin.com/in/m%C3%A9lanie-boudard-0364b521" target=_blank>LinkedIn</a></span>
+		  </li>
+		</ul>	]]>
+		</en>
+		<fr>
+		<![CDATA[
+
+		<ul class="demo-list-three mdl-list">
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/contact.png" alt="mail"/></i>
+			  <span>melanie.boudard(arobase)gmail.com</span>
+		  </li>
+		  <li class="mdl-list__item mdl-list__item--three-line">
+			<span class="mdl-list__item-primary-content">
+			  <i class="mdl-list__item-avatar"><img src="images/link.png" alt="linkedin"/></i>
+			  <span><a href="https://www.linkedin.com/in/m%C3%A9lanie-boudard-0364b521" target=_blank>LinkedIn</a></span>
+		  </li>
+		</ul>
+		]]>	
+		</fr>
+	</contactTexte>
+</website>
